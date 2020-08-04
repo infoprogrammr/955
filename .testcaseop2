@@ -1,0 +1,1 @@
+Great job!<br>Score:<score>83.0</score>%<table border=1 class=testcase><tr class=testcase_header><td>Our Input</td><td>Expected Output</td><td>Your code's output</td></tr><tr class=wrong_entry><td>john 1</td><td>Hello john<br/>32</td><td>Hello john<br/>1</td></tr><tr class=right_entry><td>mike 22</td><td>Hello mike<br/>22</td><td><br/><br/>Hello mike<br/>22<br/></td></tr></table>
